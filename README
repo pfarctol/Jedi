@@ -1,0 +1,5 @@
+Galactic Archive
+
+Barebones app that allows you to look up characters from the StarWars universe.
+Displays characters name, height, weight and hair color.
+Save searches and allows you to click them to serach for the character again. 
